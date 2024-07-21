@@ -6,11 +6,11 @@ Fine-tuning a BERT-Base model involves adapting the pre-trained model to a speci
 
 Fine Tuning of BERT-Base consists of the following steps:
 
-**1. Dataset Preparation**
-**2. Model Loading and Training**
-**3. Training Setup**
-**4. Fine Tune and Evaluation**
-**5. Inferences**
+**1. Dataset Preparation**</br>
+**2. Model Loading and Training**</br>
+**3. Training Setup**</br>
+**4. Fine Tune and Evaluation**</br>
+**5. Inferences**</br>
 </br>
 
 ### 1. Dataset Preparation:
