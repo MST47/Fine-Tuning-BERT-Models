@@ -11,7 +11,7 @@ Fine Tuning of BERT-Base consists of the following steps:
 **3. Training Setup**
 **4. Fine Tune and Evaluation**
 **5. Inferences**
-<\br>
+</br>
 
 ### 1. Dataset Preparation:
 **Load Dataset**:
